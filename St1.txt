@@ -1,0 +1,51 @@
+<table style='border:1px solid black'><tr><td>Name = Tanish <hr>
+</td></tr><tr><td>Id = 2010990719 <hr>
+ </td></tr><tr><td>Address = Bathinda <hr>
+ </td></tr><tr><td>English Marks = 89 <hr>
+ </td></tr><tr><td>Matds Marks = 79 <hr>
+ </td></tr><tr><td>Physics Marks = 89 <hr>
+ </td></tr><tr><td>Chemistry Marks = 79 <hr>
+ </td></tr><tr><td>Hindi Marks = 79 <hr>
+ </td></tr><tr><td>Total Marks = 415 <hr>
+ </td></tr><tr><td>Average Marks = 83 <hr>
+ </td></tr><tr><td>Grade = B</td></tr></table><br><br><table style='border:1px solid black'><tr><td>Name = Tanish 
+<hr></td></tr><tr><td>Id = 2010990719 
+ <hr></td></tr><tr><td>Address = Bathinda 
+ <hr></td></tr><tr><td>English Marks = 45 
+ <hr></td></tr><tr><td>Matds Marks = 46 
+ <hr></td></tr><tr><td>Physics Marks = 78 
+ <hr></td></tr><tr><td>Chemistry Marks = 78 
+ <hr></td></tr><tr><td>Hindi Marks = 78 
+ <hr></td></tr><tr><td>Total Marks = 325 
+ <hr></td></tr><tr><td>Average Marks = 65 
+ <hr></td></tr><tr><td>Grade = D</td></tr></table><br><br><table style='border:1px solid black'><tr><td>Name = Tanish 
+<hr></td></tr><tr><td>Id = 2010990719 
+ <hr></td></tr><tr><td>Address = Bathinda 
+ <hr></td></tr><tr><td>English Marks = 45 
+ <hr></td></tr><tr><td>Matds Marks = 46 
+ <hr></td></tr><tr><td>Physics Marks = 78 
+ <hr></td></tr><tr><td>Chemistry Marks = 78 
+ <hr></td></tr><tr><td>Hindi Marks = 78 
+ <hr></td></tr><tr><td>Total Marks = 325 
+ <hr></td></tr><tr><td>Average Marks = 65 
+ <hr></td></tr><tr><td>Grade = D</td></tr><table style='display:inline;border:1px solid black'><tr><td>Name = Tanish 
+<hr></td></tr><tr><td>Id = 7198 
+ <hr></td></tr><tr><td>Address = Bathinda 
+ <hr></td></tr><tr><td>English Marks = 88 
+ <hr></td></tr><tr><td>Matds Marks = 89 
+ <hr></td></tr><tr><td>Physics Marks = 88 
+ <hr></td></tr><tr><td>Chemistry Marks = 89 
+ <hr></td></tr><tr><td>Hindi Marks = 86 
+ <hr></td></tr><tr><td>Total Marks = 440 
+ <hr></td></tr><tr><td>Average Marks = 88 
+ <hr></td></tr><tr><td>Grade = B</td></tr></table><br><br><table style='border:1px solid black'><tr><td>Name = ANIL 
+<hr></td></tr><tr><td>Id = DHTRHY 
+ <hr></td></tr><tr><td>Address = GJHGJ 
+ <hr></td></tr><tr><td>English Marks = 54 
+ <hr></td></tr><tr><td>Matds Marks = 78 
+ <hr></td></tr><tr><td>Physics Marks = 45 
+ <hr></td></tr><tr><td>Chemistry Marks = 55 
+ <hr></td></tr><tr><td>Hindi Marks = 45 
+ <hr></td></tr><tr><td>Total Marks = 277 
+ <hr></td></tr><tr><td>Average Marks = 55.4 
+ <hr></td></tr><tr><td>Grade = E</td></tr></table><br><br>
